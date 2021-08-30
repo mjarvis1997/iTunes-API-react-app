@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/iTunes-API-react-app/static/css/main.0e80daee.chunk.css",
+    "main.js": "/iTunes-API-react-app/static/js/main.e50f22ba.chunk.js",
+    "main.js.map": "/iTunes-API-react-app/static/js/main.e50f22ba.chunk.js.map",
+    "runtime-main.js": "/iTunes-API-react-app/static/js/runtime-main.86ce7f98.js",
+    "runtime-main.js.map": "/iTunes-API-react-app/static/js/runtime-main.86ce7f98.js.map",
+    "static/js/2.81c5b934.chunk.js": "/iTunes-API-react-app/static/js/2.81c5b934.chunk.js",
+    "static/js/2.81c5b934.chunk.js.map": "/iTunes-API-react-app/static/js/2.81c5b934.chunk.js.map",
+    "index.html": "/iTunes-API-react-app/index.html",
+    "static/css/main.0e80daee.chunk.css.map": "/iTunes-API-react-app/static/css/main.0e80daee.chunk.css.map",
+    "static/js/2.81c5b934.chunk.js.LICENSE.txt": "/iTunes-API-react-app/static/js/2.81c5b934.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86ce7f98.js",
+    "static/js/2.81c5b934.chunk.js",
+    "static/css/main.0e80daee.chunk.css",
+    "static/js/main.e50f22ba.chunk.js"
+  ]
+}
