@@ -27,6 +27,7 @@ class AlbumDetails extends React.Component {
 				  <p className="output">{this.props.albumInfo[currentAlbumIndex].artistName}</p>
 				  <p className="label year">Year Released: </p>
 				  <p className="output year">{releaseDate}</p>
+				  <a href={this.props.albumInfo[currentAlbumIndex].collectionViewUrl} className="url" target="_blank"> View in iTunes</a>
 				</div>
 			);
 		} else {

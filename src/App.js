@@ -91,7 +91,8 @@ class App extends React.Component {
                     releaseDate: response.results[i].releaseDate,
                     trackCount: response.results[i].trackCount,
                     artistName: response.results[i].artistName,
-                    collectionId: response.results[i].collectionId
+                    collectionId: response.results[i].collectionId,
+                    collectionViewUrl: response.results[i].collectionViewUrl
                 });
 		    }
 
