@@ -1,0 +1,21 @@
+.albumFlexbox {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-top: 3px solid #ffffff40;
+    padding-top: 50px;
+}
+
+.albumFlexbox img {
+    width: 100px;
+    padding: 10px 10px 10px 10px;
+}
+
+.albumFlexbox div {
+    width: 200px;
+    height: 200px;
+    flex-grow: 1;
+    text-align: center;
+}

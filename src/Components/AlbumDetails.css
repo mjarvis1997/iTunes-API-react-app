@@ -1,0 +1,17 @@
+.albumDetails .label {
+    font-size: 14px;
+    color: #a5a5a5;
+}
+
+.albumDetails .output {
+    padding-bottom: 10px;
+}
+
+.albumDetails p {
+    padding: 0px;
+    margin: 0px;
+}
+
+.albumDetails {
+    border-left: 0px solid white;
+}

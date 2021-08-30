@@ -1,0 +1,23 @@
+/* import font */
+@import url('https://fonts.googleapis.com/css2?family=Besley&display=swap');
+
+
+/* hide submit button */
+.searchBar .hidden {
+    display: none;
+}
+
+.searchBar label {
+    font-size: 28px;
+    padding-right: 0px;
+    display: block;
+}
+
+.searchBar input {
+    width: 100%;
+    background: transparent;
+    border: 1px solid #ffffff40;
+    border-radius: 5px;
+    font-size: calc(10px + 2vmin);
+    color: #d8c3c3;
+}
